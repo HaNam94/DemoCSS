@@ -1,0 +1,45 @@
+body {
+    margin: 20px;
+    background-color: #F6DAD7;
+}
+
+p {
+    color: navy;
+    font-style: italic;
+    text-indent: 25px;
+}
+
+.p1 {
+    color: brown;
+    word-spacing: 5px;
+    line-height: 30px;
+    font-family: Arial, SansSerif;
+
+}
+
+#p2 {
+    background-color: #999999;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 7px;
+    text-indent: 50px;
+
+}
+
+#p3 {
+    background-color: aliceblue;
+    color: red;
+    line-height: 40px;
+    padding: 20px;
+
+}
+
+#p4, #p5 {
+    color: antiquewhite;
+    font-family: Verdana, SansSerif;
+    font-weight: bolder;
+    word-spacing: 15px;
+    line-height: 50px;
+    background-color: #555555;
+
+}

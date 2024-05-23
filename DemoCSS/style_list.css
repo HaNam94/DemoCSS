@@ -1,0 +1,30 @@
+l.a {
+    list-style-type: circle;
+    color: red;
+}
+
+ul.b {
+    list-style-type: square;
+    color: navy;
+}
+
+ol.c {
+    list-style-type: upper-roman;
+    color: #84c754;
+}
+
+ol.d {
+    list-style-type: lower-alpha;
+    color: blue;
+}
+
+ul._img {
+    list-style-image: url('http://agilearn.vn/draftfile.php/263/user/draft/510120718/bullet_red%20_2.png');
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
